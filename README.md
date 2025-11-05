@@ -1,4 +1,4 @@
-# Case-Study-EDA_aviation
+# Aviation Industry Exploratory Data Analysis (EDA)
 This project explores and analyses aviation data to uncover patterns, trends, and operational insights within the industry. Using Python for data wrangling, visualization, and exploration, the analysis aims to identify key drivers affecting airline performance, passenger traffic, flight delays, and other critical metrics that shape aviation operations and customer experience.
 
 The notebook provides an end-to-end exploratory approach — from data loading and cleaning to generating actionable insights — serving as a foundation for future predictive modeling or business intelligence dashboards.
